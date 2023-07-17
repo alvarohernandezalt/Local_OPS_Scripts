@@ -10,6 +10,9 @@ mkdir "L:\ES_DPP\08_Dossier\03_A_Obras_ID\%ARCHIVO%\02_INDESIGN"
 mkdir "L:\ES_DPP\08_Dossier\03_A_Obras_ID\%ARCHIVO%\03_PSD"
 
 copy "L:\ES_DPP\08_Dossier\03_C_Plantilla_ID\PlantillaKALAM_Informe2022 Folder\PlantillaKALAM_Informe2023.indd" "L:\ES_DPP\08_Dossier\03_A_Obras_ID\%ARCHIVO%\02_INDESIGN\%ARCHIVO%.indd"
+copy "L:\ES_DPP\08_Dossier\03_C_Plantilla_ID\PlantillaPSD_2023\Archivo_HORIZONTAL.psd" "L:\ES_DPP\08_Dossier\03_A_Obras_ID\%ARCHIVO%\03_PSD\%ARCHIVO%_HORIZONTAL.psd"
+copy "L:\ES_DPP\08_Dossier\03_C_Plantilla_ID\PlantillaPSD_2023\Archivo_VERTICAL.psd" "L:\ES_DPP\08_Dossier\03_A_Obras_ID\%ARCHIVO%\03_PSD\%ARCHIVO%_VERTICAL.psd"
+
 
 echo Carpeta creada con éxito
 pause
